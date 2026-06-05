@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# IDE / Editors
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+grep.exe.stackdump

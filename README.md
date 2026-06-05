@@ -1,6 +1,6 @@
 # 📊 SkillMatch Analytics - Data Science Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badge_svg.svg)](https://streamlit.io/)
+[![Open App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?logo=streamlit&logoColor=white)](https://skillmatch-analytics-dashboard-fzgnpr7jt9sudgiekbpsq4.streamlit.app/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

@@ -23,7 +23,7 @@ Skillmatch/
 ├── googleColab_skillmatch.ipynb # Jupyter Notebook tahap preprocessing & analisis EDA awal
 └── skillmatch_train_data.csv    # Dataset lowongan pekerjaan (preprocessed)
 ```
-
+link dashboard deployment app.py (https://skillmatch-analytics-dashboard-fzgnpr7jt9sudgiekbpsq4.streamlit.app/)
 ---
 
 ## 🛠️ Fitur Dashboard
